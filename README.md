@@ -1,5 +1,5 @@
 #ft_printf
-The ft_printf project is to re-create the actual printf function from <stdio.h> library in C Language.
+The ft_printf project is to re-create the actual printf function from stdio.h library in C Language.
 
 #How to run the program:
 1) make
